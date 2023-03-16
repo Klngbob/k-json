@@ -2,8 +2,8 @@
 #include <errno.h>  /* errno, ERANGE */
 #include <math.h>   /* HUGE_VAL */
 #include <stdlib.h> /* strtod() */
-#include "../include/jsonParser.h"
-#include "../include/jsonException.h"
+#include "jsonParser.h"
+#include "jsonException.h"
 
 namespace k_json {
     inline void expect(const char* &c, char ch) {

@@ -1,4 +1,4 @@
-#include "../include/jsonGenerator.h"
+#include "jsonGenerator.h"
 
 namespace k_json
 {

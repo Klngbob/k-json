@@ -1,7 +1,7 @@
-#include "../include/json.h"
-#include "../include/jsonParser.h"
-#include "../include/jsonValue.h"
-#include "../include/jsonException.h"
+#include "json.h"
+#include "jsonParser.h"
+#include "jsonValue.h"
+#include "jsonException.h"
 
 namespace k_json {
 

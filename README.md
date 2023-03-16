@@ -2,7 +2,5 @@
 
 
 ```shell
-mkdir build
-
 ./start-test.sh
 ```

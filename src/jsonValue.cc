@@ -1,7 +1,7 @@
 #include <assert.h>
-#include "../include/jsonValue.h"
-#include "../include/jsonParser.h"
-#include "../include/jsonGenerator.h"
+#include "jsonValue.h"
+#include "jsonParser.h"
+#include "jsonGenerator.h"
 
 namespace k_json {
 

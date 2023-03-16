@@ -1,6 +1,6 @@
 #include <iostream>
 #include <string.h>
-#include "../include/json.h"
+#include "json.h"
 
 static int main_ret = 0;
 static int test_count = 0;
